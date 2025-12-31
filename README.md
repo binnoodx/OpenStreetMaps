@@ -10,6 +10,5 @@ A React (Next Js Framework) application using **Leaflet** and **OpenStreetMap (O
 
 ```bash
 git clone https://github.com/binnoodx/OpenStreetMaps.git
-cd 
 npm install
 npm run dev
